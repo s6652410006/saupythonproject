@@ -1,0 +1,11 @@
+print ("Welcom  to 'SAU'")
+print ('Welcom  to "DTI"')
+print ("_________________")
+print ("Welcome to \"SAU\"")
+print ('Welcome to \'SAU\'')
+print (5546)
+print (4655,4654)
+print (15+18+62) #ได้เท่าไหร่นะ
+print (True)
+print (False)
+print (True or False and False )

@@ -1,0 +1,6 @@
+print("SAU" ,255,1222,True,50+50)
+print('SAU '+str(255)+' '+str(1.222)+'  '+str(True)+' '+str(50+50))
+print('SAU {} {} {} {}'.format(444, 454.545, True, 10+22))
+print('SAU {0} {2} {1} {3}'.format(444, 454.545, True, 10+22))
+print(f'SAU {555} {123.456} {10+50}')
+print('aaa'); print (111);print(False)
